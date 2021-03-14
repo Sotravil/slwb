@@ -1,5 +1,5 @@
 {
-  "name": "Sotravil whatsapp bot",
+  "name": "termux-wabot",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Sotravil",
+  "author": "MhankBarBar",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
