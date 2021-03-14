@@ -16,6 +16,10 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
+## Instala Termux para proseguir
+>playstore (android) : https://play.google.com/store/apps/details?id=com.termux&hl=en
+>appstore (iphone) : https://apps.apple.com/gr/app/termius-ssh-client/id549039908
+
 ## Clonar Este Repositorio
 
 ```bash
