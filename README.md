@@ -53,11 +53,11 @@ Bot Basico de WhatsApp
 > pkg install imagemagick -y
 > git clone https://github.com/Sotravil/slwb
 > cd slwb
-> bash install.sh
+> npm start
 ```
 ###### LANZAR BOT
 ```bash
-> node index.js
+> npm start
 ```
 
 ---------
@@ -70,13 +70,15 @@ Bot Basico de WhatsApp
 ```bash
 > git clone https://github.com/Sotravil/slwb
 > cd slwb
->bash install.sh
-> node index.js
+> bash install.sh
 ```
 ###### LANZAR BOT
 ```bash
-> node index.js
+> npm start
 ```
+
+# MAS DETALLES
+
 </details>
 
 
