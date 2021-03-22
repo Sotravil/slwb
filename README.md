@@ -3,7 +3,7 @@
 <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/999691b4-e557-4058-87d8-6b6a398c8837-profile_image-300x300.png" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Sotravil Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Sotravil Whatsapp Bot-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Slwb Bot-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
